@@ -1,0 +1,34 @@
+# General Python Packages
+#re
+#string
+ftfy
+#collections
+#math
+
+# data
+pandas
+numpy
+scipy
+sklearn
+#matplotlib.pyplot
+
+# Streamlit
+streamlit
+
+
+#  Cloud vision
+#io
+ipywidgets
+#cv2
+#googe.oauth2
+#PIL
+#IPython
+
+# API
+fastapi  # API framework
+pytz    # time zone management
+uvicorn # web server
+
+# tests
+httpx # HTTP client
+pytest-asyncio # asynchronous I/O support for pytest
